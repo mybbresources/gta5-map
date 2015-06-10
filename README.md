@@ -9,4 +9,4 @@ This supports the MyCode output from the websites Sharing Dialog.
 You upload the `inc` folder to your MyBB root.
 
 # License
-This library is open-sourced software licensed under the [MIT license](https://github.com/marktopper/mybb-gta5-map/blob/master/LICENSE)
+This library is open-sourced software licensed under the [MIT license](https://github.com/mybbresources/gta5-map/blob/master/LICENSE)
