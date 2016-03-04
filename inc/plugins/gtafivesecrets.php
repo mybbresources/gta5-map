@@ -2,7 +2,7 @@
 /**
  * GTA 5 Secrets Map BBCode
  * Author: Mark Topper <mail@webman.io>
- * Version 1.1
+ * Version 1.1.0
  */
 
 
