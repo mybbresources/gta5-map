@@ -10,3 +10,5 @@ You upload the `inc` folder to your MyBB root.
 
 # License
 This library is open-sourced software licensed under the [MIT license](https://github.com/mybbresources/gta5-map/blob/master/LICENSE)
+
+[![advertisement](https://ads.servead.net/i/ba808fa0-070e-4a00-8d5b-385b6271d522.svg)](https://ads.servead.net/c/ba808fa0-070e-4a00-8d5b-385b6271d522)
